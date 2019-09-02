@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MonsterInc", "MonsterInc\MonsterInc.csproj", "{932C0D94-B2E0-41EB-9BFF-A48FC2855520}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonsterInc2Simple", "MonsterInc2Simple\MonsterInc2Simple.csproj", "{BF5436B7-D1AE-4C19-A707-DD0E7B05C0D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{932C0D94-B2E0-41EB-9BFF-A48FC2855520}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{932C0D94-B2E0-41EB-9BFF-A48FC2855520}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{932C0D94-B2E0-41EB-9BFF-A48FC2855520}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{932C0D94-B2E0-41EB-9BFF-A48FC2855520}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF5436B7-D1AE-4C19-A707-DD0E7B05C0D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF5436B7-D1AE-4C19-A707-DD0E7B05C0D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF5436B7-D1AE-4C19-A707-DD0E7B05C0D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF5436B7-D1AE-4C19-A707-DD0E7B05C0D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ACE1E176-78BE-468A-9C13-5E9EDC12D95B}
+	EndGlobalSection
+EndGlobal
