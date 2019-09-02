@@ -1,0 +1,11 @@
+C:\Users\Jez Horton\source\repos\week4\Day1\MonsterInc\MonsterInc2Simple\bin\Debug\netcoreapp2.1\MonsterInc2Simple.deps.json
+C:\Users\Jez Horton\source\repos\week4\Day1\MonsterInc\MonsterInc2Simple\bin\Debug\netcoreapp2.1\MonsterInc2Simple.runtimeconfig.json
+C:\Users\Jez Horton\source\repos\week4\Day1\MonsterInc\MonsterInc2Simple\bin\Debug\netcoreapp2.1\MonsterInc2Simple.runtimeconfig.dev.json
+C:\Users\Jez Horton\source\repos\week4\Day1\MonsterInc\MonsterInc2Simple\bin\Debug\netcoreapp2.1\MonsterInc2Simple.dll
+C:\Users\Jez Horton\source\repos\week4\Day1\MonsterInc\MonsterInc2Simple\bin\Debug\netcoreapp2.1\MonsterInc2Simple.pdb
+C:\Users\Jez Horton\source\repos\week4\Day1\MonsterInc\MonsterInc2Simple\obj\Debug\netcoreapp2.1\MonsterInc2Simple.csprojAssemblyReference.cache
+C:\Users\Jez Horton\source\repos\week4\Day1\MonsterInc\MonsterInc2Simple\obj\Debug\netcoreapp2.1\MonsterInc2Simple.csproj.CoreCompileInputs.cache
+C:\Users\Jez Horton\source\repos\week4\Day1\MonsterInc\MonsterInc2Simple\obj\Debug\netcoreapp2.1\MonsterInc2Simple.AssemblyInfoInputs.cache
+C:\Users\Jez Horton\source\repos\week4\Day1\MonsterInc\MonsterInc2Simple\obj\Debug\netcoreapp2.1\MonsterInc2Simple.AssemblyInfo.cs
+C:\Users\Jez Horton\source\repos\week4\Day1\MonsterInc\MonsterInc2Simple\obj\Debug\netcoreapp2.1\MonsterInc2Simple.dll
+C:\Users\Jez Horton\source\repos\week4\Day1\MonsterInc\MonsterInc2Simple\obj\Debug\netcoreapp2.1\MonsterInc2Simple.pdb
